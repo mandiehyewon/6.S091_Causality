@@ -2,6 +2,7 @@
 ### Policy Evaluation, Structure Learning, and Representation Learning
 
 This is the unofficial repository of the class, from a student took the class on 2023 IAP. My solution might include incorrect answers.
+
 The official website for the class and the syllabus is at [https://github.com/csquires/6.S091-causality/blob/main/syllabus.pdf](https://github.com/csquires/6.S091-causality/blob/main/syllabus.pdf).
 
 Lecture notes will be posted on this page. Recordings are [here](https://www.youtube.com/channel/UC7ilO3m_TDzOXULn7xWV1RQ).
